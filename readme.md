@@ -76,4 +76,4 @@ Run `./mvnw test` for testing.
 ## Acknowledgments
 
 * This is an assignment given by the instructor at the University of Bristol: [Simon](https://github.com/drslock) from the course of Object-Oriented Programming with Java 2022.
-* This assignment is built on top on the base <a href="https://github.com/drslock/JAVA2022/tree/main/Weekly%20Workbooks/07%20Briefing%20on%20DB%20assignment/resources/cw-db" target="_blank">Maven project</a>.
+* This assignment is built on top on the base Maven project.
