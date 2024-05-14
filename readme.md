@@ -22,7 +22,7 @@ The query language we shall use for this purpose supports the following main typ
 | DROP    | Removes a specified table from a database, or removes the entire database                 |
 | JOIN    | Performs an inner join on two tables (returning all permutations of all matching records) |
 
-> A grammar that fully defines the simplified query language is provided in <a href="https://github.com/drslock/JAVA2022/blob/main/Weekly%20Workbooks/07%20Briefing%20on%20DB%20assignment/resources/BNF.txt" target="_blank">this BNF document</a>.
+> A grammar that fully defines the simplified query language is provided in <a href="https://raw.githubusercontent.com/JamesLove1/Database-Server/main/database/BNF.txt" target="_blank">this BNF document</a>.
 
 
 ### Prerequisite / Additional Information
